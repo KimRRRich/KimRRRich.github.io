@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author: 
   name             : "Zhou Xiao"
-  avatar           : "/images/profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "Researcher in HDU, specialised in statistical hydrology"
   location         : "Hang Zhou, China"
   employer         :
