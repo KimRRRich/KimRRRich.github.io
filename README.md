@@ -1,8 +1,8 @@
-# Ze Jiang
+# Zhou Xiao
 This is Zhou Xiao's personal [homepage](https://kimrrrich.github.io/).
 
 ## A short introduction
-I am an engineer, hydro-climatologist and researcher. My research focuses on drought detection and attribution, as well as prediction using GCM simulations. I mainly use statistical tools to carry out my research works.
+I am an undergraduate student in Hangzhou Dianzi University. My research focuses on DeepLearning and AIGC. I mainly use statistical tools to carry out my research works.
 
 PROFILE:
 * Highly self-motivated researcher with demonstrated research expertise modeling hydro-climatology processes. 
