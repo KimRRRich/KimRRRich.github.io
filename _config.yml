@@ -89,7 +89,7 @@ author:
   googlescholar    : #"https://scholar.google.com/citations?user=4iVouPYAAAAJ&hl=en"
   email            : "zhouxiao@hdu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Xiao-Zhou-66"
-  publons          : "https://publons.com/researcher/3963266/ze-jiang/"
+  publons          : #"https://publons.com/researcher/3963266/ze-jiang/"
   uri              : 
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zhouxiao"
+  linkedin         : #"zhouxiao"
   orcid            : #"http://orcid.org/0000-0002-3472-0829"
   pinterest        :
   soundcloud       :
