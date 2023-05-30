@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhou Xiao"
 title_separator          : "-"
 name                     : &name "Zhou Xiao"
-description              : &description "undergraduate in HDU, Hang Zhou, China"
+description              : &description "undergraduate in HDU, Hangzhou, China"
 url                      : https://kimrrrich.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kimrrrich.github.io"
@@ -82,13 +82,13 @@ analytics:
 author: 
   name             : "Zhou Xiao"
   avatar           : "profile.jpg"
-  bio              : "Researcher in HDU, specialised in statistical hydrology"
-  location         : "Hang Zhou, China"
+  bio              : "Undergraduate in HDU, major in Digital Media Technology"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=4iVouPYAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=4iVouPYAAAAJ&hl=en"
   email            : "zhouxiao@hdu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Ze_Jiang3"
+  researchgate     : "https://www.researchgate.net/profile/Xiao-Zhou-66"
   publons          : "https://publons.com/researcher/3963266/ze-jiang/"
   uri              : 
   bitbucket        :
@@ -103,18 +103,18 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zejiang"
-  orcid            : "http://orcid.org/0000-0002-3472-0829"
+  linkedin         : "zhouxiao"
+  orcid            : #"http://orcid.org/0000-0002-3472-0829"
   pinterest        :
   soundcloud       :
   stackoverflow    : #"http://stackoverflow.com/users/123456/username"
   steam            :
   tumblr           :
-  twitter          : "ZeJiang3"
+  twitter          : #"ZeJiang3"
   vine             :
   weibo            :
   xing             :
-  youtube          : "UCDgVmJEzD5czbTlTdVVewKA"
+  youtube          : #"UCDgVmJEzD5czbTlTdVVewKA"
   wikipedia        :
       
 # Reading Files
@@ -277,7 +277,7 @@ permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 # timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Australia/Sydney # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:  Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
