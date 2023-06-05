@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-<font face="Times New Roman">This is Zhou Xiao's personal homepage. </font>
+This is Zhou Xiao's personal homepage. 
 
 ## A short introduction
-<font face="Times New Roman">I am a Undergraduate in Hangzhou Dianzi University and major in Digital Media Technology. My research interests includes Computer Vision and Machine Learning. I am currently working on 3D Multi-Person Motion Prediction and Audio-Visual Violence Detection. And also working hard for the postgraduate entrance examination.</font>
+I am a Undergraduate in Hangzhou Dianzi University and major in Digital Media Technology. My research interests includes Computer Vision and Machine Learning. I am currently working on 3D Multi-Person Motion Prediction and Audio-Visual Violence Detection. And also working hard for the postgraduate entrance examination.
 
 
-## <font face="Times New Roman">Publications </font>
+## Publications
+
 [The MI-Motion Dataset and Benchmark for 3D Multi-Person Motion Prediction](https://mi-motion.github.io/), Xiaogang Peng, **Xiao Zhou**, Yikai Luo, Zizhao Wu, under review.
 
 [Learning Weakly-Supervised Audio-Visual Violence Detection in Hyperbolic Space](https://github.com/xiaogangpeng/HyperVD), Xiaogang Peng, Hao Wen, Yikai Luo*, **Xiao Zhou**, Keyang Yu, Yigang Wang, Zizhao Wu, under veview. 
