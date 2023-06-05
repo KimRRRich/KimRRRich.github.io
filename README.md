@@ -2,7 +2,7 @@
 This is Zhou Xiao's personal [homepage](https://kimrrrich.github.io/).
 
 ## A short introduction
-I am an undergraduate student in Hangzhou Dianzi University. My research focuses on DeepLearning and AIGC. I mainly use statistical tools to carry out my research works.
+I am a Undergraduate in Hangzhou Dianzi University(HDU) and major in Digital Media Technology. My research interests includes Computer Vision and Machine Learning. I am currently working on 3D Multi-Person Motion Prediction and Audio-Visual Violence Detection. And also working hard for the postgraduate entrance examination.
 
 PROFILE:
 <!-- * Highly self-motivated researcher with demonstrated research expertise modeling hydro-climatology processes. 
@@ -17,5 +17,5 @@ PROFILE:
 [Learning Weakly-Supervised Audio-Visual Violence Detection in Hyperbolic Space](https://github.com/xiaogangpeng/HyperVD), Xiaogang Peng, Hao Wen, Yikai Luo*, **Xiao Zhou**, Keyang Yu, Yigang Wang, Zizhao Wu, under veview. 
 
 ## For more information
-More info about me can be found in [CV](https://zejiang-unsw.github.io/cv/).
+More info about me can be found in [CV](TODO).
 
