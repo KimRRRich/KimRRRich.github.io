@@ -15,9 +15,9 @@ redirect_from:
 
 
 ## <font face="Times New Roman">Publications </font>
-<font face="Times New Roman">[The MI-Motion Dataset and Benchmark for 3D Multi-Person Motion Prediction](https://mi-motion.github.io/), Xiaogang Peng, **Xiao Zhou**, Yikai Luo, Zizhao Wu, under review.</font>
+[The MI-Motion Dataset and Benchmark for 3D Multi-Person Motion Prediction](https://mi-motion.github.io/), Xiaogang Peng, **Xiao Zhou**, Yikai Luo, Zizhao Wu, under review.
 
-<font face="Times New Roman">[Learning Weakly-Supervised Audio-Visual Violence Detection in Hyperbolic Space](https://github.com/xiaogangpeng/HyperVD), Xiaogang Peng, Hao Wen, Yikai Luo*, **Xiao Zhou**, Keyang Yu, Yigang Wang, Zizhao Wu, under veview. </font>
+[Learning Weakly-Supervised Audio-Visual Violence Detection in Hyperbolic Space](https://github.com/xiaogangpeng/HyperVD), Xiaogang Peng, Hao Wen, Yikai Luo*, **Xiao Zhou**, Keyang Yu, Yigang Wang, Zizhao Wu, under veview. 
 
 <!-- Jiang, Z., Rashid, M. M., Johnson, F., & Sharma, A. (2020). A wavelet-based tool to modulate variance in predictors: An application to predicting drought anomalies. *Environmental Modelling & Software*, 135, 104907. [link](https://doi.org/10.1016/j.envsoft.2020.104907)
 
