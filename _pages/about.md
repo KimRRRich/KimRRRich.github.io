@@ -8,17 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is Zhou Xiao's personal homepage. 
+<font face="Times New Roman">This is Zhou Xiao's personal homepage. </font>
 
 ## A short introduction
-<font face="Times New Roman">I am a Undergraduate in Hangzhou Dianzi University and major in Digital Media Technology. My research interests includes Computer Vision and Machine Learning. I am currently working on 3D Multi-Person Motion Prediction and Audio-Visual Violence Detection. And
-also working hard for the postgraduate entrance examination.</font>
+<font face="Times New Roman">I am a Undergraduate in Hangzhou Dianzi University and major in Digital Media Technology. My research interests includes Computer Vision and Machine Learning. I am currently working on 3D Multi-Person Motion Prediction and Audio-Visual Violence Detection. And also working hard for the postgraduate entrance examination.</font>
 
 
-## Publications
-[The MI-Motion Dataset and Benchmark for 3D Multi-Person Motion Prediction](https://mi-motion.github.io/), Xiaogang Peng, **Xiao Zhou**, Yikai Luo, Zizhao Wu, under review.
+## <font face="Times New Roman">Publications </font>
+<font face="Times New Roman">[The MI-Motion Dataset and Benchmark for 3D Multi-Person Motion Prediction](https://mi-motion.github.io/), Xiaogang Peng, **Xiao Zhou**, Yikai Luo, Zizhao Wu, under review.</font>
 
-[Learning Weakly-Supervised Audio-Visual Violence Detection in Hyperbolic Space](https://github.com/xiaogangpeng/HyperVD), Xiaogang Peng, Hao Wen, Yikai Luo*, **Xiao Zhou**, Keyang Yu, Yigang Wang, Zizhao Wu, under veview. 
+<font face="Times New Roman">[Learning Weakly-Supervised Audio-Visual Violence Detection in Hyperbolic Space](https://github.com/xiaogangpeng/HyperVD), Xiaogang Peng, Hao Wen, Yikai Luo*, **Xiao Zhou**, Keyang Yu, Yigang Wang, Zizhao Wu, under veview. </font>
 
 <!-- Jiang, Z., Rashid, M. M., Johnson, F., & Sharma, A. (2020). A wavelet-based tool to modulate variance in predictors: An application to predicting drought anomalies. *Environmental Modelling & Software*, 135, 104907. [link](https://doi.org/10.1016/j.envsoft.2020.104907)
 
@@ -29,14 +28,14 @@ Jiang, Z., Sharma, A., & Johnson, F. (2019). Assessing the sensitivity of hydro-
 Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van Pham Dang, T. (2019). Future changes in rice yields over the Mekong River Delta due to climate change-Alarming or alerting? *Theoretical and Applied Climatology*, 137(1), 545-555. [link](https://doi.org/10.1007/s00704-018-2617-z) -->
 
 ## Education
-* **2020.09 - 2024.06(expected)** &nbsp;&nbsp;&nbsp;&nbsp;Hangzhou Dianzi University, Digital Media Technology, Bachelor
+* **2020.09 - 2024.06(expected)** &nbsp;&nbsp;Hangzhou Dianzi University, Digital Media Technology, Bachelor
 
-## Awards
-* **2021.05** &nbsp;&nbsp;&nbsp;&nbsp;Second-class Scholarship of Hangzhou Dianzi University
-* **2021.10** &nbsp;&nbsp;&nbsp;&nbsp;Third-class Scholarship of Hangzhou Dianzi University
-* **2022.04** &nbsp;&nbsp;&nbsp;&nbsp;Third-class Scholarship of Hangzhou Dianzi University
-* **2022.10** &nbsp;&nbsp;&nbsp;&nbsp;Second-class Scholarship of Hangzhou Dianzi University
-* **2023.04** &nbsp;&nbsp;&nbsp;&nbsp;Third-class Scholarship of Hangzhou Dianzi University
+## Awards and Honors
+* **2021.05** &nbsp;&nbsp;Second-class Scholarship of Hangzhou Dianzi University
+* **2021.10** &nbsp;&nbsp;Third-class Scholarship of Hangzhou Dianzi University
+* **2022.04** &nbsp;&nbsp;Third-class Scholarship of Hangzhou Dianzi University
+* **2022.10** &nbsp;&nbsp;Second-class Scholarship of Hangzhou Dianzi University
+* **2023.04** &nbsp;&nbsp;Third-class Scholarship of Hangzhou Dianzi University
 
 ## For more information
 More info about Zhou Xiao can be found in [CV](https://zejiang-unsw.github.io/cv/) or [downloaded CV](http://zejiang-unsw.github.io/files/CV_ZeJIANG.pdf).
