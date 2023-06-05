@@ -11,7 +11,7 @@ redirect_from:
 This is Zhou Xiao's personal homepage. 
 
 ## A short introduction
-<font face="黑体">I am a Undergraduate in Hangzhou Dianzi University and major in Digital Media Technology. My research interests includes Computer Vision and Machine Learning. I am currently working on 3D Multi-Person Motion Prediction and Audio-Visual Violence Detection. And
+<font face="Times New Roman">I am a Undergraduate in Hangzhou Dianzi University and major in Digital Media Technology. My research interests includes Computer Vision and Machine Learning. I am currently working on 3D Multi-Person Motion Prediction and Audio-Visual Violence Detection. And
 also working hard for the postgraduate entrance examination.</font>
 
 
@@ -29,14 +29,14 @@ Jiang, Z., Sharma, A., & Johnson, F. (2019). Assessing the sensitivity of hydro-
 Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van Pham Dang, T. (2019). Future changes in rice yields over the Mekong River Delta due to climate change-Alarming or alerting? *Theoretical and Applied Climatology*, 137(1), 545-555. [link](https://doi.org/10.1007/s00704-018-2617-z) -->
 
 ## Education
-* **2020.09 - 2024.06(expected)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hangzhou Dianzi University, Digital Media Technology, Bachelor
+* **2020.09 - 2024.06(expected)** &nbsp;&nbsp;&nbsp;&nbsp;Hangzhou Dianzi University, Digital Media Technology, Bachelor
 
 ## Awards
-* **2021.05** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Second-class Scholarship of Hangzhou Dianzi University
-* **2021.10** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Third-class Scholarship of Hangzhou Dianzi University
-* **2022.04** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Third-class Scholarship of Hangzhou Dianzi University
-* **2022.10** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Second-class Scholarship of Hangzhou Dianzi University
-* **2023.04** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Third-class Scholarship of Hangzhou Dianzi University
+* **2021.05** &nbsp;&nbsp;&nbsp;&nbsp;Second-class Scholarship of Hangzhou Dianzi University
+* **2021.10** &nbsp;&nbsp;&nbsp;&nbsp;Third-class Scholarship of Hangzhou Dianzi University
+* **2022.04** &nbsp;&nbsp;&nbsp;&nbsp;Third-class Scholarship of Hangzhou Dianzi University
+* **2022.10** &nbsp;&nbsp;&nbsp;&nbsp;Second-class Scholarship of Hangzhou Dianzi University
+* **2023.04** &nbsp;&nbsp;&nbsp;&nbsp;Third-class Scholarship of Hangzhou Dianzi University
 
 ## For more information
 More info about Zhou Xiao can be found in [CV](https://zejiang-unsw.github.io/cv/) or [downloaded CV](http://zejiang-unsw.github.io/files/CV_ZeJIANG.pdf).
