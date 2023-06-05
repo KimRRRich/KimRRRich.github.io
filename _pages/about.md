@@ -16,9 +16,9 @@ also working hard for the postgraduate entrance examination.
 
 
 ## Publications
-The MI-Motion Dataset and Benchmark for 3D Multi-Person Motion Prediction, Xiaogang Peng, **Xiao Zhou**, Yikai Luo, Zizhao Wu, under review. [link](https://doi.org/10.1175/MWR-D-22-0217.1)
+[The MI-Motion Dataset and Benchmark for 3D Multi-Person Motion Prediction](https://mi-motion.github.io/), Xiaogang Peng, **Xiao Zhou**, Yikai Luo, Zizhao Wu, under review.
 
-Learning Weakly-Supervised Audio-Visual Violence Detection in Hyperbolic Space, Xiaogang Peng, Hao Wen, Yikai Luo*, **Xiao Zhou**, Keyang Yu, Yigang Wang, Zizhao Wu, under veview. [link](https://doi.org/10.1016/j.jhydrol.2021.126816)
+[Learning Weakly-Supervised Audio-Visual Violence Detection in Hyperbolic Space](https://github.com/xiaogangpeng/HyperVD), Xiaogang Peng, Hao Wen, Yikai Luo*, **Xiao Zhou**, Keyang Yu, Yigang Wang, Zizhao Wu, under veview. 
 
 <!-- Jiang, Z., Rashid, M. M., Johnson, F., & Sharma, A. (2020). A wavelet-based tool to modulate variance in predictors: An application to predicting drought anomalies. *Environmental Modelling & Software*, 135, 104907. [link](https://doi.org/10.1016/j.envsoft.2020.104907)
 
