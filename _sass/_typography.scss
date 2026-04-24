@@ -4,6 +4,10 @@
 
 @use "variables" as v;
 
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
 p,
 h1,
 h2,
@@ -17,6 +21,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 hr {

@@ -38,6 +38,28 @@ body.sticky-bottom-footer {
   img {
     width: 100%;
   }
+
+  figure:has(img.rounded-circle) {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+    overflow: hidden;
+
+    picture {
+      display: block;
+      width: 200px;
+      height: 200px;
+    }
+
+    img.rounded-circle {
+      width: 200px !important;
+      height: 200px !important;
+      object-fit: cover;
+      border-radius: 50% !important;
+      display: block;
+    }
+  }
 }
 
 // Content layout uses Bootstrap's grid system with responsive columns
