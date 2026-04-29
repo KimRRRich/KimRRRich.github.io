@@ -5,7 +5,7 @@ permalink: /
 # subtitle: Graduate Student at <a href='https://www.hdu.edu.cn'>Hangzhou Dianzi University</a>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: true
   more_info: >

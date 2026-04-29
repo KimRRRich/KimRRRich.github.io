@@ -18,7 +18,7 @@
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
     <!-- Header -->
-    {% include header.liquid %}
+    {% unless page.hide_navbar %}{% include header.liquid %}{% endunless %}
 
     <!-- Content -->
     <div class="container mt-5" role="main">
@@ -48,7 +48,7 @@
     </div>
 
     <!-- Footer -->
-    {% include footer.liquid %}
+    {% unless page.hide_navbar %}{% include footer.liquid %}{% endunless %}
 
     <!-- JavaScripts -->
     {% include scripts.liquid %}
